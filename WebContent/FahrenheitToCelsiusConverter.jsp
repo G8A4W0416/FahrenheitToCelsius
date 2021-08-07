@@ -16,7 +16,7 @@
 </style>
 </head>
 <body>
-	<h1>Fahrenheit to Celsius Converter</h1>
+	<h1>Fahrenheit to Celsius Converter - Canada</h1>
 	<form action="getCelsiusServlet" method="post">
 		<fieldset>
 			<label for="degreesF">&deg;F:</label> <input id="degreesF" type="number" name="degreesF" />
