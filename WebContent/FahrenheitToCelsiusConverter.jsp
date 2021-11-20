@@ -16,7 +16,7 @@
 </style>
 </head>
 <body>
-	<h1>Fahrenheit to Celsius Converter - Merging Only First Commit</h1>
+	<h1>Fahrenheit to Celsius Converter - Merging Only Second Commit</h1>
 	<form action="getCelsiusServlet" method="post">
 		<fieldset>
 			<label for="degreesF">&deg;F:</label> <input id="degreesF" type="number" name="degreesF" />
